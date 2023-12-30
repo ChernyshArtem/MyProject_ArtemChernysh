@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct ContentView1: View {
     var body: some View {
         VStack {
             Text("Hello, world! From Belarus")
@@ -17,5 +17,5 @@ struct ContentView: View {
 }
 
 #Preview {
-    ContentView()
+    ContentView1()
 }
