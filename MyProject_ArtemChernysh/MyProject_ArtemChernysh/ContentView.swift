@@ -7,18 +7,15 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct ContentView2: View {
     var body: some View {
         VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+            Text("Hello, world! From Belarus")
         }
         .padding()
     }
 }
 
 #Preview {
-    ContentView()
+    ContentView2()
 }
