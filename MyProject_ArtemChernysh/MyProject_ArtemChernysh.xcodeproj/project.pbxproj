@@ -11,6 +11,7 @@
 		E03CE8902B406E410035C77B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E03CE88F2B406E410035C77B /* ContentView.swift */; };
 		E03CE8922B406E430035C77B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E03CE8912B406E430035C77B /* Assets.xcassets */; };
 		E03CE8952B406E430035C77B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E03CE8942B406E430035C77B /* Preview Assets.xcassets */; };
+		E03CE8A02B40BA6C0035C77B /* ArtemChernyshView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E03CE89F2B40BA6C0035C77B /* ArtemChernyshView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		E03CE88F2B406E410035C77B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E03CE8912B406E430035C77B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E03CE8942B406E430035C77B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E03CE89F2B40BA6C0035C77B /* ArtemChernyshView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtemChernyshView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				E03CE88F2B406E410035C77B /* ContentView.swift */,
 				E03CE8912B406E430035C77B /* Assets.xcassets */,
 				E03CE8932B406E430035C77B /* Preview Content */,
+				E03CE89F2B40BA6C0035C77B /* ArtemChernyshView.swift */,
 			);
 			path = MyProject_ArtemChernysh;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E03CE8A02B40BA6C0035C77B /* ArtemChernyshView.swift in Sources */,
 				E03CE8902B406E410035C77B /* ContentView.swift in Sources */,
 				E03CE88E2B406E410035C77B /* MyProject_ArtemChernyshApp.swift in Sources */,
 			);
